@@ -1,6 +1,5 @@
 const arr = ['타노스' , '아이언맨' , '블랙위도우']
 
-
 console.log(arr.length)
 
 console.log(arr[0])
